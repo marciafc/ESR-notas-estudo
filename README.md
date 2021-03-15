@@ -18,7 +18,7 @@
 	
     - @Autowired: no construtor, no setter ou atributo
 
-    - A dependência pode ser opcional: permite realizar tratamento para quando não existir a dependência
+      - A dependência pode ser opcional: permite realizar tratamento para quando não existir a dependência
 
   - Ambiguidade de beans
   
@@ -33,6 +33,10 @@
       - Com anotação customizada: um @Qualifier customizado
 
   - Spring Profiles
+  
+    - Definindo comportamentos com @Profile("")
+	
+	- Selecionar ambiente pelo application.properties (um ou mais) OU parâmetro na IDE
 
   - Métodos de callback: ciclo de vida, @PostConstruct, @PreDestroy
 
