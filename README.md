@@ -107,3 +107,16 @@
 	
   - 3.20. Desafio: mapeando entidades
 	
+## [4 - REST com Spring](/4.rest-com-spring.md)
+
+  - 4.1 O que é REST?
+  
+  - 4.2. Conhecendo as constraints do REST
+  
+  - 4.3. Diferença entre REST e RESTful
+  
+  - 4.4. Desenvolvedores de REST APIs puristas e pragmáticos
+
+  - 4.5. Conhecendo o protocolo HTTP
+  
+  - 4.6. Usando o protocolo HTTP
