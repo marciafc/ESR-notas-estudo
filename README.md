@@ -120,3 +120,22 @@
   - 4.5. Conhecendo o protocolo HTTP
   
   - 4.6. Usando o protocolo HTTP
+  
+  - 4.7. Instalando e testando o Postman
+  
+  - 4.8. Entendendo o que são Recursos REST
+  
+  - 4.9. Identificando recursos REST
+  
+  - 4.10. Modelando e requisitando um Collection Resource com GET
+  
+  - 4.11. Desafio: collection resource de estados
+  
+  - 4.12. Representações de recursos e content negotiation
+  
+  - 4.13. Implementando content negotiation para retornar JSON ou XML
+  
+  - 4.14. Consultando Singleton Resource com GET e @PathVariable
+
+  - 4.15. Customizando as representações XML e JSON com @JsonIgnore, @JsonProperty e @JsonRootName
+  
