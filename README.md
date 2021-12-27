@@ -149,5 +149,16 @@
 
   - 4.20. Manipulando a resposta HTTP com ResponseEntity
 
+  - 4.21. Corrigindo o Status HTTP para resource inexistente
+
+  - 4.22. Status HTTP para collection resource vazia: qual usar?
+
+  - 4.23. Modelando e implementando a inclusão de recursos com POST
+
+  - 4.24. Negociando o media type do payload do POST com Content-Type
+
+  - 4.25. Modelando e implementando a atualização de recursos com PUT
+
+  - 4.26. Modelando e implementando a exclusão de recursos com DELETE
 
   
