@@ -139,3 +139,15 @@
 
   - 4.15. Customizando as representações XML e JSON com @JsonIgnore, @JsonProperty e @JsonRootName
   
+  - 4.16. Customizando a representação em XML com Wrapper e anotações do Jackson
+
+  - 4.17. Conhecendo os métodos HTTP
+
+  - 4.18. Conhecendo os códigos de status HTTP
+
+  - 4.19. Definindo o status da resposta HTTP com @ResponseStatus
+
+  - 4.20. Manipulando a resposta HTTP com ResponseEntity
+
+
+  
