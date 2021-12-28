@@ -161,4 +161,4 @@
 
   - 4.26. Modelando e implementando a exclusão de recursos com DELETE
 
-  
+  - 4.27. Implementando a camada de domain services (e a importância da linguagem ubíqua)
