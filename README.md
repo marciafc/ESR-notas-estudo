@@ -4,6 +4,9 @@
 
 ## [2 - Spring e Injeção de Dependências](/2.Spring-e-Injecao-de-Dependencias.md)
 
+<details>
+  <summary>Visualizar</summary>	
+
   - Spring Initializr
 
   - Spring Boot DevTools
@@ -64,6 +67,7 @@
 	
     - Por variável de ambiente
 	
+</details>	
 
 ## [3 - Introdução ao JPA e Hibernate](/3.Introducao-ao-JPA-e-Hibernate.md)
 
