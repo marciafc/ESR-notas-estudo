@@ -169,3 +169,7 @@
 
   - 4.30. Modelando e implementando a inclusão de recursos de restaurantes
 
+  - 4.31. Desafio: Modelando e implementando a atualização de recursos de restaurantes
+
+  - 4.32. Desafio: implementando serviços REST de cidades e estados
+
