@@ -67,9 +67,12 @@
 
 ## [3 - Introdução ao JPA e Hibernate](/3.Introducao-ao-JPA-e-Hibernate.md)
 
-  - 3.1 Instalar MySQL Server e MySQL Workbench    
+<details>
+  <summary>Visualizar</summary>	
+
+  - 3.1. Instalar MySQL Server e MySQL Workbench    
 	
-  - 3.2 O que é JPA e Hibernate?  	
+  - 3.2. O que é JPA e Hibernate?  	
   
   - 3.3. Adicionando JPA e configurando o Data Source
 		
@@ -106,6 +109,8 @@
   - 3.19. Propriedade nullable de @Column e @JoinColumn
 	
   - 3.20. Desafio: mapeando entidades
+	
+</details>	
 	
 ## [4 - REST com Spring](/4.rest-com-spring.md)
 
