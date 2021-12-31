@@ -109,7 +109,10 @@
 	
 ## [4 - REST com Spring](/4.rest-com-spring.md)
 
-  - 4.1 O que é REST?
+<details>
+  <summary>Visualizar</summary>	
+	
+  - 4.1. O que é REST?
   
   - 4.2. Conhecendo as constraints do REST
   
@@ -172,4 +175,11 @@
   - 4.31. Desafio: Modelando e implementando a atualização de recursos de restaurantes
 
   - 4.32. Desafio: implementando serviços REST de cidades e estados
+
+  - 4.33. Analisando solução para atualização parcial de recursos com PATCH	
+	
+</details>
+	
+
+
 
