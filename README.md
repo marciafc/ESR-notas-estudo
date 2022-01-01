@@ -5,7 +5,7 @@
 ## [2 - Spring e Injeção de Dependências](/2.Spring-e-Injecao-de-Dependencias.md)
 
 <details>
-  <summary>Visualizar</summary>	
+  <summary>Visualizar tópicos</summary>	
 
   - Spring Initializr
 
@@ -72,7 +72,7 @@
 ## [3 - Introdução ao JPA e Hibernate](/3.Introducao-ao-JPA-e-Hibernate.md)
 
 <details>
-  <summary>Visualizar</summary>	
+  <summary>Visualizar tópicos</summary>	
 
   - 3.1. Instalar MySQL Server e MySQL Workbench    
 	
@@ -119,7 +119,7 @@
 ## [4 - REST com Spring](/4.rest-com-spring.md)
 
 <details>
-  <summary>Visualizar</summary>	
+  <summary>Visualizar tópicos</summary>	
 	
   - 4.1. O que é REST?
   
@@ -186,6 +186,9 @@
   - 4.32. Desafio: implementando serviços REST de cidades e estados
 
   - 4.33. Analisando solução para atualização parcial de recursos com PATCH	
+	
+  - 4.34. Finalizando a atualização parcial com a API de Reflections do Spring
+	
 	
 </details>
 	
