@@ -198,10 +198,29 @@
   - 4.38. Conhecendo o nível 2 do RMM
 
   - 4.39. Conhecendo o nível 3 do RMM
-	
-	
+		
 </details>
 	
+## [5 - Super poderes do Spring Data JPA](/5.super-poderes-do-spring-data-jpa.md)
 
+<details>
+  <summary>Visualizar tópicos</summary>	
+	
+  - 5.1. Implementando consultas JPQL em repositórios
+
+  - 5.2. Conhecendo o projeto Spring Data JPA (SDJ)
+
+  - 5.3. Criando um repositório com Spring Data JPA (SDJ)
+
+  - 5.4. Refatorando o código do projeto para usar o repositório do SDJ
+
+  - 5.5. Desafio: refatorando todos os repositórios para usar SDJ
+	
+  - 5.6. Criando consultas com query methods
+
+  - 5.7. Usando as keywords para definir critérios de query methods
+
+
+</details>	
 
 
