@@ -189,6 +189,16 @@
 	
   - 4.34. Finalizando a atualização parcial com a API de Reflections do Spring
 	
+  - 4.35. Introdução ao Modelo de Maturidade de Richardson (RMM)
+
+  - 4.36. Conhecendo o nível 0 do RMM
+
+  - 4.37. Conhecendo o nível 1 do RMM
+
+  - 4.38. Conhecendo o nível 2 do RMM
+
+  - 4.39. Conhecendo o nível 3 do RMM
+	
 	
 </details>
 	
