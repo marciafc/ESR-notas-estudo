@@ -220,6 +220,8 @@
 
   - 5.7. Usando as keywords para definir critérios de query methods
 
+  - 5.8. Conhecendo os prefixos de query methods
+
 
 </details>	
 
