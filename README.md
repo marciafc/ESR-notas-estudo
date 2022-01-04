@@ -222,6 +222,8 @@
 
   - 5.8. Conhecendo os prefixos de query methods
 
+  - 5.9. Usando queries JPQL customizadas com @Query
+
 
 </details>	
 
