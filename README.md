@@ -224,6 +224,8 @@
 
   - 5.9. Usando queries JPQL customizadas com @Query
 
+  - 5.10. Externalizando consultas JPQL para um arquivo XML
+
 
 </details>	
 
